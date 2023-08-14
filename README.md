@@ -1,6 +1,6 @@
 # [📈 Live Status](https://rcmorano.github.io/upptime-poc): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for the [Cardano Ballot app for Cardano Summit 2022](https://voting.summit.cardano.org/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for the [Cardano Foundation Explorer](https://beta.explorer.cardano.org/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/rcmorano/upptime-poc/workflows/Uptime%20CI/badge.svg)](https://github.com/rcmorano/upptime-poc/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/rcmorano/upptime-poc/workflows/Response%20Time%20CI/badge.svg)](https://github.com/rcmorano/upptime-poc/actions?query=workflow%3A%22Response+Time+CI%22)
