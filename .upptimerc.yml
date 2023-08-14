@@ -1,6 +1,6 @@
 # Change these first
 owner: cardano-foundation
-repo: cf-summit-evoting-status
+repo: cf-explorer-status
 
 sites:
   - name: beta.explorer.cardano.org (mainnet frontend)
@@ -70,5 +70,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-
