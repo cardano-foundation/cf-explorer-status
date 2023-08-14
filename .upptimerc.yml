@@ -53,7 +53,7 @@ sites:
     url: https://auth-api.pro.cf-explorer-preview.eu-west-1.beta.explorer.cardano.org/api/v1/user/info
     maxResponseTime: 2000
     expectedStatusCodes:
-      - 401
+      - 402
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
