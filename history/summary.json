@@ -58,18 +58,20 @@
     "url": "https://api.beta.explorer.cardano.org/api/v1/epochs",
     "icon": "https://icons.duckduckgo.com/ip3/api.beta.explorer.cardano.org.ico",
     "slug": "mainnet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 333,
-    "timeWeek": 258,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {}
+    "time": 271,
+    "timeDay": 329,
+    "timeWeek": 266,
+    "timeMonth": 271,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2023-09-02": 0
+    }
   },
   {
     "name": "mainnet - Auth API",
