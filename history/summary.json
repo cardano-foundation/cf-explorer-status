@@ -162,16 +162,16 @@
     "url": "https://api.preview.beta.explorer.cardano.org/api/v1/epochs",
     "icon": "https://icons.duckduckgo.com/ip3/api.preview.beta.explorer.cardano.org.ico",
     "slug": "preview-api",
-    "status": "up",
-    "uptime": "95.10%",
-    "uptimeDay": "98.67%",
+    "status": "down",
+    "uptime": "95.11%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "95.10%",
+    "uptimeYear": "95.11%",
     "time": 416,
-    "timeDay": 316,
-    "timeWeek": 343,
-    "timeMonth": 370,
+    "timeDay": 299,
+    "timeWeek": 334,
+    "timeMonth": 367,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2023-12-24": 15,
@@ -201,7 +201,7 @@
       "2023-09-09": 797,
       "2023-09-08": 86,
       "2023-09-07": 22,
-      "2023-09-06": 116
+      "2023-09-06": 109
     }
   },
   {
