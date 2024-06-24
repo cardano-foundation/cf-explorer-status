@@ -1,7 +1,7 @@
 url: https://auth-api.pro.cf-explorer-mainnet.eu-west-1.beta.explorer.cardano.org/api/v1/user/info
-status: down
-code: 404
-responseTime: 484
-lastUpdated: 2024-06-24T14:55:54.063Z
+status: up
+code: 401
+responseTime: 528
+lastUpdated: 2024-06-24T15:11:01.181Z
 startTime: 2023-08-14T17:50:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
