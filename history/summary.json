@@ -28,7 +28,7 @@
     "uptime": "42.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.42%",
+    "uptimeMonth": "61.45%",
     "uptimeYear": "42.76%",
     "time": 251,
     "timeDay": 0,
@@ -287,11 +287,11 @@
     "url": "https://api.beta.explorer.cardano.org/api/v1/epochs",
     "icon": "https://icons.duckduckgo.com/ip3/api.beta.explorer.cardano.org.ico",
     "slug": "mainnet-api",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "70.77%",
-    "uptimeWeek": "79.82%",
-    "uptimeMonth": "95.36%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "70.74%",
+    "uptimeWeek": "79.90%",
+    "uptimeMonth": "95.37%",
     "uptimeYear": "99.61%",
     "time": 331,
     "timeDay": 192,
@@ -301,7 +301,7 @@
     "dailyMinutesDown": {
       "2024-08-14": 261,
       "2024-08-13": 806,
-      "2024-08-12": 976
+      "2024-08-12": 968
     }
   },
   {
@@ -407,14 +407,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "29.65%",
-    "uptimeYear": "85.82%",
+    "uptimeYear": "85.81%",
     "time": 381,
     "timeDay": 0,
     "timeWeek": 179,
     "timeMonth": 403,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2024-08-14": 862,
+      "2024-08-14": 878,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
