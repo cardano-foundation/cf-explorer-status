@@ -1,7 +1,7 @@
 url: https://api.beta.explorer.cardano.org/api/v1/epochs
-status: up
-code: 200
-responseTime: 378
-lastUpdated: 2024-08-30T00:55:46.495Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-08-30T01:02:18.411Z
 startTime: 2023-08-14T17:50:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
