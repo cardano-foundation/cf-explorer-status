@@ -9,18 +9,6 @@ sites:
     __dangerous__body_down_if_text_missing: 'Cardano Blockchain Explorer'
     expectedStatusCodes:
       - 200
-  - name: preprod.beta.explorer.cardano.org (preprod frontend)
-    url: https://preprod.beta.explorer.cardano.org/
-    maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'Cardano Blockchain Explorer'
-    expectedStatusCodes:
-      - 200
-  - name: preview.beta.explorer.cardano.org (preview frontend)
-    url: https://preview.beta.explorer.cardano.org/
-    maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'Cardano Blockchain Explorer'
-    expectedStatusCodes:
-      - 200
   - name: mainnet - API
     url: https://api.beta.explorer.cardano.org/api/v1/epochs
     maxResponseTime: 2000
@@ -32,29 +20,6 @@ sites:
     maxResponseTime: 2000
     expectedStatusCodes:
       - 401
-  - name: preprod - API
-    url: https://api.preprod.beta.explorer.cardano.org/api/v1/epochs
-    maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'IN_PROGRESS'
-    expectedStatusCodes:
-      - 200
-  - name: preprod - Auth API
-    url: https://auth-api.pro.cf-explorer-preprod.eu-west-1.beta.explorer.cardano.org/api/v1/user/info
-    maxResponseTime: 2000
-    expectedStatusCodes:
-      - 401
-  - name: preview - API
-    url: https://api.preview.beta.explorer.cardano.org/api/v1/epochs
-    maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'IN_PROGRESS'
-    expectedStatusCodes:
-      - 200
-  - name: preview - Auth API
-    url: https://auth-api.pro.cf-explorer-preview.eu-west-1.beta.explorer.cardano.org/api/v1/user/info
-    maxResponseTime: 2000
-    expectedStatusCodes:
-      - 401
-  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
