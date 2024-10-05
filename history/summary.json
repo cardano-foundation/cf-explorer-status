@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 298,
-    "timeWeek": 416,
-    "timeMonth": 441,
-    "timeYear": 292,
+    "timeDay": 576,
+    "timeWeek": 427,
+    "timeMonth": 450,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2024-06-11": 3
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.beta.explorer.cardano.org.ico",
     "slug": "mainnet-api",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.48%",
     "time": 340,
-    "timeDay": 678,
-    "timeWeek": 530,
-    "timeMonth": 506,
+    "timeDay": 412,
+    "timeWeek": 515,
+    "timeMonth": 499,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2024-09-26": 75,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 668,
-    "timeDay": 751,
-    "timeWeek": 600,
-    "timeMonth": 580,
+    "timeDay": 546,
+    "timeWeek": 610,
+    "timeMonth": 572,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2024-08-29": 13,
@@ -73,8 +73,7 @@
       "2024-04-04": 22,
       "2024-04-03": 5,
       "2023-12-05": 530,
-      "2023-12-04": 659,
-      "2023-10-06": 5
+      "2023-12-04": 659
     }
   }
 ]
